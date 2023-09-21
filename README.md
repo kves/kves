@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kves
-- 👀 Mobile apps fan
-- 🎯 I’m currently learning Dart and Flutter
+- 👀 Some mobile development history, mostly Flutter
+- 🎯 I’m currently trying Java backend
 
 <!---
 kves/kves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
